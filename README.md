@@ -1,3 +1,2 @@
 # Nuke-Bot
-fastest nuke bot made by AadyaExe
-Subscribe to AadyaExe
+fastest nuke bot made by Aditya JiJa
